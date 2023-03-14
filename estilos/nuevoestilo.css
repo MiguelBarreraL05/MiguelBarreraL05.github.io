@@ -1,0 +1,40 @@
+#comiclub{
+    display:inline-block;
+        width:30;
+    float:left;
+}
+#titulos{
+    display: inline-block;
+    width:55%;
+    text-align: center;
+    font-family:serif;
+    
+    
+    
+}
+#img2{
+    display:inline-block;
+    width:15%;
+    float: right;
+    margin:5px;
+}
+.menu{
+    display:inline-block;
+    width:13%;
+    background-color:royalblue;
+    font-size:18px;
+    text-align:center;
+}
+#pie{
+    text-align: center;
+    font-size: 20px;
+    border:groove;
+    width:100%;
+}
+#marcox{
+ 
+}
+#body{
+  background: linear-gradient(to bottom right, red, black);
+}
+}

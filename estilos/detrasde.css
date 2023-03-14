@@ -1,0 +1,32 @@
+#imagen{
+    float: left;
+}
+#lista{
+    display: inline-block;
+    width: 20%;
+    background-color: aquamarine;
+    font-size: 20px;
+    text-align: center;
+    border solid;
+    font-family: monospace;
+    border: double;
+    border-color: azure;
+    text-align: end;
+    float: right;
+}
+#tit{
+    text-align: center;
+    background-color: aliceblue;
+    font-family: fantasy;
+}
+body{
+    background-color: red;
+    background-repeat: no-repeat;
+}
+#marco{
+
+}
+#text{
+    background-color: aliceblue;
+    font-family: monospace;
+}
